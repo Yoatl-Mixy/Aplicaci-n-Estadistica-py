@@ -1,9 +1,8 @@
 import math
 print ('+--------------------------------+')
-print ('+-------     Equipo 1       -----+')
+print ('+-------                    -----+')
 print ('+-Gabriel Aaron Mancera Martinez-+')
-print ('+--- Alejandra Ortiz Ramirez ----+')
-print ('+--- Guadalupe Campos Cazares ---+')
+print ('+-------                    -----+')
 print ('+-------------------------------+')
 print ('|   Aplicacion Estadistica      |')
 print ('+-------------------------------+')
